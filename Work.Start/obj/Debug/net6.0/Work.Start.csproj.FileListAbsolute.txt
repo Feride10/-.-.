@@ -1,0 +1,15 @@
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.csproj.AssemblyReference.cache
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.AssemblyInfoInputs.cache
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.AssemblyInfo.cs
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.csproj.CoreCompileInputs.cache
+C:\Users\Feride\ДЗ\Work.Start\bin\Debug\net6.0\Work.Start.exe
+C:\Users\Feride\ДЗ\Work.Start\bin\Debug\net6.0\Work.Start.deps.json
+C:\Users\Feride\ДЗ\Work.Start\bin\Debug\net6.0\Work.Start.runtimeconfig.json
+C:\Users\Feride\ДЗ\Work.Start\bin\Debug\net6.0\Work.Start.dll
+C:\Users\Feride\ДЗ\Work.Start\bin\Debug\net6.0\Work.Start.pdb
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.dll
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\refint\Work.Start.dll
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.pdb
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\Work.Start.genruntimeconfig.cache
+C:\Users\Feride\ДЗ\Work.Start\obj\Debug\net6.0\ref\Work.Start.dll
